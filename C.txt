@@ -1,1 +1,2 @@
 This is the Rats file.
+Adding a new line to the file.
